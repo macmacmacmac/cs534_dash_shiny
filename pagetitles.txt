@@ -1,0 +1,603 @@
+10001,Unit Overview
+10011,Section Overview & Target Learning Outcomes
+10852,What is Organic Chemistry
+10851,The Scientific Method
+10853,Molecules Are Really Small
+10935,Looking at Molecules with Microscopy Techniques
+10836,Looking at Molecules with X-Ray Crystallography
+10222,Target Learning Outcomes
+10012,Section Overview & Target Learning Outcomes
+10012,10222),
+10614,Bonding Patterns for Carbon & Hydrogen
+10801,Lewis Structures for Alkane Hydrocarbons
+10479,Combustion of Hydrocarbons
+10480,Combustion Analysis
+10887,Skeletal Structures of Hydrocarbons
+10183,Some Example Alkane Hydrocarbons
+10715,Naming Alkane Hydrocarbons
+10478,Distillation & Fossil Fuels
+10481,Larger Alkanes & Polymers
+10181,Target Learning Outcomes & Practice Problems
+10013,Section Overview & Target Learning Outcomes
+10613,Bonding Patterns for Oxygen
+10385,Alcohols & Ethers
+10284,Functional Groups within Complex Molecules
+10431,Infrared (IR) Spectroscopy Overview
+10563,IR Patterns
+10914,Formal & Common Names of Alcohols & Ethers
+10722,Target Learning Outcomes & Practice Problems
+10014,Section Overview & Target Learning Outcomes
+10112,Mass Spectrometry Overview
+10768,EI Mass Spectrometry Data
+10712,Fragmentation Overview
+10711,Deducing Structures
+10490,Gas Chromatography & GS/MS
+10711,10490),
+10411,Target Learning Outcomes & Practice Problems
+10015,Section Overview & Target Learning Outcomes
+10015,10411,10722)// mass specethers
+10260,Amines Overview
+10952,IR Data for Amines
+10713,Mass Spectrometry of Amines
+10565,IR Patterns for Amines
+10491,Target Learning Outcomes & Practice Problems,
+10016,Section Overview & Target Learning Outcomes
+10016,10260)// amines overview
+10298,Amine Molecular Formulas
+10294,C,H,N Combustion Analysis
+10292,Problem Solving Strategies
+10295,Determining Atomic Ratios
+10296,Including Other Atoms
+10819,Target Learning Outcomes & Practice Problems,
+10017,Section Overview & Target Learning Outcomes
+10017,10722,10411)// ethersmass spec
+10384,Alkyl Halide Examples
+10953,IR Data for Alkyl Halides
+10911,Mass Spectrometry with Halogen Atoms
+10567,More IR Patterns
+10912,Isotopes in Mass Spectrometry
+10642,Chemical Names with Substituients
+10818,Target Learning Outcomes & Practice Problems
+10018,Section Overview & Target Learning Outcomes
+10384,10260,10385)// halide introamine introether intro  
+10616,Bonding Patterns in Organic Molecules
+10615,Classical Bonding Theory
+10977,Lewis Dot Structures
+10623,Dot Structures with Heteroatoms
+10817,Target Learning Outcomes & Practice Problems
+10002,Unit Overview
+10021,Section Overview & Target Learning Outcomes
+10021,10181,10722,10411,10491,10818,10817)// hydrocarbon,
+10549,Other Shapes for Carbon
+10110,Double and Triple Bonds
+10397,VSEPR Geometry
+10398,Skeletal Structures with Double & Triple Bonds
+10863,Example AlkenesAlkynesand Aromatic Rings,
+10862,Ketones and Aldehydes
+10954,IR Data for CarbonylsAlkenesand Alkynes
+10787,Thinking Critically about Molecular Formulas
+10716,Naming AldehydesKetonesAlkenesand Alkynes
+10627,Heteroatom Geometry and Lone Pairs
+10564,Complete IR Patterns
+10731,IR Explanation
+10652,Vibrational Mixing
+10788,Saturated Hydrocarbons
+10789,Degrees of Unsaturation
+10791,High Resolution Mass Spectrometry
+10368,Target Learning Outcomes & Practice Problems,
+10022,Section Overview & Target Learning Outcomes
+10022,10817)// classical bonding theory
+10634,Shortcomings of Classical Bonding Theory,
+10732,Overview of Quantum Mechanics
+10733,Quantum Mechanics Explains Classical Theory
+10868,Atomic Orbital Shapes
+10869,Atomic Orbital Details
+10156,Molecular Orbitals
+10157,Mixing Orbitals
+10821,Target Learning Outcomes & Practice Problems,
+10023,Section Overview & Target Learning Outcomes
+10023,10627,10836)// double bonds through heteroatom geometryX-ray data
+10192,Rotating Bonds,
+10195,Rotational States for C–C Bonds
+10936,Anti and Gauche Conformations
+10122,Stilbene
+10842,Geometric Isomers 
+10710,The Importance of Shape
+10718,Naming Geometric Isomers
+10193,Newman Projections
+10194,Completing the Rotation
+10840,Target Learning Outcomes & Practice Problems
+10024,Section Overview & Target Learning Outcomes
+10201,Overview of NMR//no formal prereqs
+10202,Carbon NMR Data of Ketones & Aldehydes
+10202,10203)),
+10203,Analyzing Carbon NMR Spectra,
+10204,Carbon NMR Data of Ethers & Alcohols
+10210,A Practice Problem
+10205,Carbon Chemical Shift Patterns
+10802,Target Learning Outcomes & Practice Problems,
+10025,Section Overview & Target Learning Outcomes
+10025,10627,10821)// double bonds through heteroatom geomorbital theory section
+10212,Orbital Challenges for Organic Molecules
+10821,10840),
+10290,Orbital Hybridization
+10888,Forming Tetrahedral Atoms
+10889,Pi Bonds
+10742,Heteroatoms
+10822,Target Learning Outcomes & Practice Problems,
+10026,Section Overview & Target Learning Outcomes
+10026,10840)// rotating bonds and geom isomers section
+10777,Thinking about Molecular Shape
+10776,Another Example
+10778,Enantiomers
+10751,The Importance of Chirality
+10630,Optical Rotation
+10631,Optical Rotation Data
+10633,Mixtures of Enantiomers
+10632,Enantiomeric Excess
+10827,Target Learning Outcomes & Practice Problems,
+10027,Section Overview & Target Learning Outcomes
+10533,Boiling Point Trends
+10179,Intermolecular Attractive Forces
+10170,Polarized Bonds & Resonance Structures
+10704,Net Dipoles
+10705,Difluoroethylene
+10535,Van der Waals Interactions
+10844,Hydrogen Bonding
+10422,Hydrophilic & Hydrophobic Organic Solvents
+10422,10822)// molecular orbitals
+10848,Hydrogen Bonding Explanation
+10848,10822)// molecular orbitals
+10534,Polarizability & Orbital Variation
+10337,Polarity vs Polarizability
+10761,Unequal Orbital Mixing
+10377,The Hydrophobic Effect
+10423,Solubility
+10504,Odor and Pheromone Molecules
+10501,Organic Ions and Salts
+10502,Liquid Extractions
+10503,Recrystallization
+10503,10377),
+10823,Target Learning Outcomes & Practice Problems
+10003,Unit Overview
+10003,10652,10848,10802)// double bonnds thought heteroatom geometry and IRim forces through h bonding explanationcarbon NMR 
+10031,Section Overview & Target Learning Outcomes,
+10926,Carboxylic Acids,
+10332,Amides
+10332),
+10146,Amide GeometryIRand 13C NMR
+10333,Other Emergent Properties of Amides
+10150,Hydrogen Bonding in Amides & Carboxylic Acids
+10556,Melting Points
+10334,Amide Resonance Structures
+10944,3-D Molecualr Packing in Solids
+10945,A Naming Question
+10349,Target Learning Outcomes & Practice Problems
+10032,Section Overview & Target Learning Outcomes,
+10032,10334,10501,10761)//  structures through amide resonancephydical prop through organic ionsorbitals through unequal mixing
+10161,Introduction to Organic Reactions
+10162,Thermodynamics & Kinetics
+10165,Bond Strength Examples
+10166,Bond Strength Explanation
+10163,Anion Stability
+10164,Anion Stability Details 
+10168,Target Learning Outcomes & Practice Problems
+10033,Section Overview & Target Learning Outcomes,
+10174,Looking For Similarities among Reactions
+10174,10164)// reactions introduction full section
+10175,Keeping Track of the Electrons
+10173,Transition States
+10176,The Strength of an Acid
+10177,Some Common Acids and Bases
+10172,Using Acids and Bases in Purifications
+10178,Buffers & Acid-Base Reactions in Biochemistry
+10169,Target Learning Outcomes & Practice Problems
+10034,Section Overview & Target Learning Outcomes,
+10034,10168,10173)// complete intro reactions sectionacid base reactions through transition states
+10870,Esters
+10271,Hydrolysis of Esters
+10252,Soap
+10253,Ester Hydrolysis in Biology
+10255,Hydrolysis of Amides (with MolView Instructions)
+10256,Hydrolysis of Other Functional Groups
+10259,The Tetrahedral Intermediate
+10259,10169)// full acid base section
+10258,Comparing Electrophiles and Leaving Groups
+10261,Target Learning Outcomes & Practice Problems
+10035,Section Overview & Target Learning Outcomes,
+10035,10261)// full hydrolysis section
+10257,Methanolysis & Bio-Deisel Applications
+10270,Forming Esters
+10273,Forming Amides
+10274,Forming Polymer Materials
+10275,Biochemical Examples
+10276,Target Learning Outcomes & Practice Problems
+10036,Section Overview & Target Learning Outcomes,
+10036,10751,10840)//   enantiomers excluding optical rotationbond rotations
+10992,Stereogenic Atoms
+10991,More Practice
+10993,Tetrahedra
+10994,Multiple Stereocenters
+10995,Diastereomers
+10996,Another Example of Stereoisomers
+10997,Properties of Diastereomers
+10813,Diastereomeric Interactions
+10814,Meso Compounds
+10828,Target Learning Outcomes & Practice Problems
+10037,Section Overview & Target Learning Outcomes,
+10783,Thin Layer Chromatography (TLC)
+10511,Column Chromatography and HPLC
+10839,LC/MS & Electrospray Ionization Mass Spec
+10769,MS Ionization Methods
+10770,LC/MS Example Data
+10771,Data Analysis Continued
+10824,Target Learning Outcomes & Practice Problems
+10038,Section Overview & Target Learning Outcomes,
+10038,10276)// full sub carbonyl synthesis section
+10350,Reactive Starting Materials & Stable Products 
+10351,Forming Acid Chlorides
+10352,Finishing the Mechanism
+10354,Amide Coupling Reagents
+10355,Target Learning Outcomes & Practice Problems
+10004,Unit Overview
+10004,10802)
+10041,Section Overview & Target Learning Outcomes,
+10206,1H NMR Chemical Shift Patters,
+10215,Equivalent Hydrogen Atoms
+10207,1H NMR Signal Integration
+10208,Integration Explanation
+10209,Signal Shapes
+10216,More Splitting Pattern Observations
+10217,Summarizing Splitting Patterns
+10219,Putting It All Together
+10218,Target Learning Outcomes & Practice Problems
+10042,Section Overview & Target Learning Outcomes,
+10042,10995,10276,10169)// diastereomerssub COa-b 
+10680,An Example Sn2 Reaction
+10681,Sn2 Rate Data
+10682,Sn2 Stereochemistry Data
+10682,10761)// biased orbitals
+10683,Transition States and Orbital Mixing
+10684,Orbital Mixing in Other Reactions
+10685,Sn2 Leaving Groups
+10686,Sn2 Electrophiles
+10687,Sn2 Nucleophiles
+10688,Target Learning Outcomes & Practice Problems
+10043,Section Overview & Target Learning Outcomes,
+10043,10828)// diastereomers which has bond rotations as prereq itself
+10551,6-Membered Rings
+10499,4-Membered Rings
+10498,5-Membered Rings
+10552,The Chair Conformation
+10554,Axial and Equatorial Substituients
+10559,More Chair Details
+10553,Drawing Practice
+10629,Boats and Ring Flips
+10488,Varieties of Ring Shapes
+10629,10488),
+10829,Target Learning Outcomes & Practice Problems
+10044,Section Overview & Target Learning Outcomes,
+10044,10688,10355)// Sn2 and activating sub co
+10597,Tosylate Leaving Groups
+10595,Converting Alcohols into Tosylates
+10594,Using Tosylates in Synthesis
+10592,Converting Alcohol Groups into Halides
+10598,Target Learning Outcomes & Practice Problems
+10045,Section Overview & Target Learning Outcomes,
+10045,10276)//sub CO synth 
+10443,Oxidation States
+10442,Forming Carboxylic acids by Oxidation Reactions
+10440,Forming Alcohols by Reduction Reactions
+10440,10598)// activating alcohols for sn2
+10441,Amides and Acid Chlorides
+10446,Reduction Mechanism
+10444,Target Learning Outcomes & Practice Problems
+10046,Section Overview & Target Learning Outcomes,
+10046,10688,10829)//sn2 reactionschair shapes
+10230,Elimination Byproducts in Sn2 Reactions
+10231,Avoiding Elimination Byproducts
+10232,Intentionally Forming Elimination Products
+10233,E2 Elimination Mechanism
+10234,Orbital Mixing in E2 Reactions
+10235,E2 vs Sn2
+10236,Target Learning Outcomes & Practice Problems
+10047,Section Overview & Target Learning Outcomes,
+10047,10355)// activating sub CO
+10670,Doing Reactions on Complex Molecules
+10671,The Fischer Esterification
+10672,Mechanism of the Fischer Esterification
+10677,Thermodynamics Question
+10675,Thermodynamics of Acid-Catalyzed Reactions
+10676,Acid-Catalyzed Hydrolysis Reactions
+10673,Catalysis
+10674,Nucleophilic Catalysts
+10678,Target Learning Outcomes & Practice Problems
+10048,Section Overview & Target Learning Outcomes,
+10048,10823,10349,10169,10252)
+10424,Self Assembly of Cell Membranes
+10426,Intramolecular Forces
+10425,Protein Folding
+10427,DNA & RNA Structures
+10343,Molecular Association
+10376,Matching Shapes
+10826,Target Learning Outcomes & Practice Problems
+20628,Unit Overview & Target Learning Outcomes
+20629,Section Overview & Target Learning Outcomes
+20631,Benzene's Structure
+20632,Benzene's Properties
+20630,Some Other Aromatic Ring Hydrocarbons
+20633,Some Aromatic Rings with Heteroatoms
+20634,Pyridine's Lone Pair
+20643,Benzene Derivatives
+20650,Constitutional Isomers
+20648,IR Spectroscopy of Aromatic Rings
+20646,Remember NMR Analysis
+20649,NMR of Benzene
+20645,NMR of Aromatic Compounds
+20647,Naming Isomers of Benzene Derivatives
+20642,Phenols and Anilines
+20641,Benzoic Acids
+20639,Target Learning Outcomes & Practice Problems
+20229,Section Overview & Target Learning Outcomes
+20231,Organometallic Reagents
+20238,Acid–Base Reactions of Organometallic Reagents
+20232,Using Organometallic Reagents to Form Alcohols
+20239,Practice with Reactions
+20240,Practice with Synthesis
+20234,Ester Electrophiles
+20235,Forming Organometallic Reagents
+20241,Synthesizing Ketones
+20242,Sn2 Reactions of Organometallic Reagents
+20237,Target Learning Outcomes & Practice
+20199,Unit Overview & Target Learning Outcomes
+20200,The Middle Oxidation State
+20201,Partial Reductions with Li(tBuO)3AlH
+20202,Partial Reductions with (iBu)2AlH
+20203,Forming Aldehydes by Partial Oxidation
+20205,Hydrates of Aldehydes
+20206,Oxidation Mechanism
+20207,Target Learning Outcomes & Practice Problems
+20470,Unit Overview & Target Learning Outcomes
+20471,Retrosynthetic Analysis
+20472,Deprotonating Ketones
+20479,Deprotonating Adjacent to Ketones
+20473,Enolate Ions
+20474,Enolate Alkylation
+20475,Stereochemistry Questions
+20476,Stereochemistry
+20477,Regioselectivity
+20478,Target Learning Outcomes & Practice Problems
+20469,Unit Overview & Target Learning Outcomes
+20111,Amines & Quaternary Ammonium Salts
+20113,Sn2 Reactions with Amines
+20114,Synthesis of Tertiary Amines
+20118,Reaction Mechanisms
+20115,Synthesizing Secondary Amines
+20116,Synthesizing Primary Amines
+20117,Target Learning Outcomes & Practice Problems
+20189,Unit Overview
+20190,The Nitrile Functional Group
+20191,Nitrile Group Details
+20192,Synthesizing Nitriles by Sn2 Reactions
+20192,20117,20207)// aldehyde ox and amine summaries
+20193,Converting Nitriles into Other Functional Groups
+20193,20237)// organometallics summary
+20196,Reacting Organometallic Reagents with Nitriles
+20196,20478)// enolate alkylation summary
+20194,Alkylation Reactions with Nitriles
+20195,Target Learning Outcomes & Practice Problems
+20328,Unit Overview & Target Learning Outcomes
+20329,Section Overview & Target Learning Outcomes
+20330,Data from Substitution Reactions
+20331,More Data from Substitution Reactions
+20332,Even More Data from Substitution Reactions
+20335,Sn1 Reaction Mechanism
+20336,Carbocation Structures
+20337,Comparing Different Carbocations
+20338,Carbocation Stabilities
+20339,Acid Promoted Sn1 Reactions
+20341,Lewis Acid Promoted Substitution Reactions
+20340,Functional Group Classification Tests
+20343,Sn1 vs Sn2 vs E2 Reactions
+20342,Target Learning Outcomes & Practice Problems
+20550,Section Overview & Target Learning Outcomes
+20551,The Benzylic Position
+20552,Halogenation Reactions
+20553,Thinking About Benzylic Positions
+20554,Sn1 Reactions at the Benzylic Position
+20555,Resonance in Benzylic Carbocations
+20556,Breaking Bonds
+20557,Halogenation Mechanism
+20558,Benzylic Radicals
+20559,Bromination Selectivity
+20560,Chlorination Selectivity
+20561,Other Halogenation Reactions
+20562,Target Learning Outcomes & Practice Problems
+20880,Section Overview & Target Learning Outcomes
+20881,Example Reaction Data
+20883,Electrophilic Aromatic Substitution Mechanism
+20882,Friedel Crafts Acylation Reactions
+20884,Directing Group Effects
+20891,Halogen Substituents
+20887,Halogenation Reactions
+20886,Alkane Directing Groups
+20888,Friedel Crafts Alkylation Reactions
+20885,Nitration and Sulfation
+20892,Target Learning Outcomes & Practice Problems
+20900,Section Overview & Target Learning Outcomes
+20892,20900)// EAS
+20901,Benzylic Reductions
+20902,Benzylic Oxidations
+20904,Benzylic Bromination
+20903,Nitro Group Reductions
+20890,Target Learning Outcomes & Practice Problems
+20621,Section Overview & Target Learning Outcomes
+20620,Anti-Aromatic Compounds
+20635,Orbital Mixing in Benzene
+20636,Aromatic Orbitals in Benzene
+20622,Orbital Mixing in Five-Membered Rings
+20637,The Inscribed Polygon Method
+20638,Anti-Aromaticity
+20623,Aromatic vs Anti-Aromatic vs Non-Aromatic
+20624,Target Learning Outcomes & Practice Problems
+20910,Section Overview & Target Learning Outcomes
+20912,Challenges with Phenols and Anilines
+20907,EAS Reactions of Phenols
+20908,EAS Reactions of Anilines
+20905,Diazonium Groups
+20909,Azo Compounds
+20906,Target Learning Outcomes & Practice Problems
+20130,Unit Overview & Target Learning Outcomes
+20131,Section Overview & Target Learning Outcomes
+20144,Carbon NMR Data
+20145,Proton NMR Data
+20140,Spin StatesMagnetsand Radio Waves
+20141,Shielding and De-Shielding
+20142,Splitting
+20143,Complex Splitting Patterns
+20151,Target Learning Outcomes & Practice Problems
+20132,Section Overview & Target Learning Outcomes
+20132,20342)// Sn1
+20160,Example Reactions
+20161,Reaction Conditions
+20162,Mechanism Question
+20163,The E1 Mechanism
+20164,E1 Thermodynamics
+20165,Elimination Product Options
+20166,Selectivity in Elimination Reactions
+20167,Alkene Stabilities
+20168,E1 vs E2 vs Sn1 vs Sn2
+20169,The Boc Protecting Group in Synthesis
+20152,Target Learning Outcomes & Practice Problems
+20133,Section Overview & Target Learning Outcomes
+20719,The E / Z Naming System
+20287,Assigning Priority Numbers
+20289,Breaking Ties
+20717,Naming Alkene Stereochemistry
+10288,Tetrahedral Stereochemistry
+20153,Target Learning Outcomes & Practice Problems
+20134,Section Overview & Target Learning Outcomes
+20290,Synthesis Challenges
+20291,Selectivity in Alkene Synthesis
+20260,Alkyne Alkylation
+20262,Alkyne Alkylation in Synthesis
+20263,Oxidation States in Hydrocarbons
+20261,The Dissolving Metal Reduction
+20265,Metal-Catalyzed Hydrogenation Reactions
+20266,Phosphonium Ylides
+20267,Making Phosphonium Ylides
+20268,Wittig Olefination Reactions
+20269,Selectivity in Wittig Olefinations
+20112,Hoffman Elimination
+20262,20265,20269),
+20154,Target Learning Outcomes & Practice Problems
+20135,Section Overview & Target Learning Outcomes
+20360,Thinking about Epoxides
+20361,Using Epoxides to Make Polymers
+20362,Product Options
+20363,Product Selectivity
+20364,Other Nucleophiles
+20233,Synthesis Practice
+20365,Acid-Promoted Reactions
+20366,Hybrid Substitution Mechanisms
+20367,Synthesizing Epoxides
+20155,Target Learning Outcomes & Practice Problems
+20136,Section Overview & Target Learning Outcomes
+20380,Thinking about Cyclopropanation Reactions
+20381,Thinking about Cyclopropanation Stereochemsitry
+20382,Thinking about Mechanisms
+20770,Carbenes
+20771,Carbene Cyclopropanation Mechanism
+20772,Simmons–Smith Cyclopropanation
+20773,Epoxidation Mechanism
+20774,Dibromination Reactions
+20775,Dibromination Mechanism
+20776,Hydrohalogenation Reactions
+20156,Target Learning Outcomes & Practice Problems
+20137,Section Overview & Target Learning Outcomes
+20780,Example Reactions
+20410,Hydrobromination
+20411,Anti-Markovnikov Hydrobromination
+20412,Radical Hydrobromination
+20413,Alkene Hydration
+20414,Hydration Mechanism
+20415,Hydroboration / Oxidation
+20157,Target Learning Outcomes & Practice Problems
+20138,Section Overview & Target Learning Outcomes
+20421,Thinking about Oxidation States
+20422,Alkene Dihydroxylation
+20423,Dihydroxylation Stereochemistry
+20424,Dihydroxylation Mechanism
+20425,Ozonolysis
+20426,3+2 Cycloaddition Mechanism
+20426,20424),
+20158,Target Learning Outcomes & Practice Problems
+20491,Unit Overview & Target Learning Outcomes
+20491,20478)// enolate alkylation
+20490,Section Overview & Target Learning Outcomes
+20483,1,3-Dicarbonyl Targets
+20488,Beta-hydroxycarbonyl Targets
+20702,Retrosynthetic Analysis
+20703,The Aldol Addition Reaction
+20484,The Claisen Condensation
+20489,Claisen Condensation Mechanism
+20486,Claisen Condensations with Deprotonatable Esters
+20480,Intramolecular Claisen Condensations
+20485,Claisen Selectivity Challenges
+20704,Selectivity Challenges in Aldol Addition Reactions
+20482,Acetoacetic Acid / Malonic Acid Synthesis Strategy
+20701,Enolate Reactions in Biochemistry
+20701,20482,20485),
+20487,Target Learning Outcomes & Practice Problems
+20492,Section Overview & Target Learning Outcomes
+20493,Conjugated Functional Groups
+20494,Diene Stabilities
+20491,204942)),
+20495,UV / Vis Spectroscopy
+20496,Conjugated Alkene Orbitals
+20497,The Allylic Position
+20498,Orbitals in Allylic Systems
+20499,Orbital Mixing in 3 + 2 Cycloaddition Reactions
+20500,Target Learning Outcomes & Practice Problems
+20502,Section Overview & Target Learning Outcomes
+20500,20502)// conjugated alkenes
+20510,Thinking about Enones
+20699,Enone Conjugation
+20700,Elimination Reactions of Beta-Hydroxycarbonyls
+20705,The Aldol Condensation Reaction
+20514,Elimination Reactions of Alpha-Halocarbonyls
+20515,Alpha-Halogenation Reactions
+20706,Target Learning Outcomes & Practice Problems
+20811,Section Overview & Target Learning Outcomes
+20811,20706,20487)// enoneenolates
+20509,Conjugate Addition Reactions in Cancer Therapeutics
+20513,The Enone's Alkene Group
+20511,Conjugate Addition Reactions
+20518,1,2-Addition to Enones
+20517,Conjugate Addition Reactions of Organocuprates
+20512,Another Practice Problem
+20519,The Michael Reaction
+20519,20512),
+20516,Target Learning Outcomes & Practice Problems
+20300,Section Overview & Target Learning Outcomes
+20300,20699)// enone conjugation
+20301,An Example Reaction
+20299,Thinking about Mechanisms
+20302,The Diels–Alder Reaction
+20307,Product Options
+20304,Regioselectivity
+20305,Regioselectivity Explanation
+20309,Stereospecificity
+20303,Orbital Mixing
+20306,Endo & Exo Stereochemistry Options
+20310,Target Learning Outcomes & Practice Problems
+20440,Section Overview & Target Learning Outcomes
+20441,Thinking about Emergent Reactivity
+20442,Hemi-Acetals and Simple Sugars
+20443,Acetals and Complex Sugars
+20444,Acetals in Synthesis
+20445,Target Learning Outcomes & Practice Problems
+10913,Mass Spectrometry Fragmentation - update this page - move into SN1 section
+10961,Functional Group Classification Tests 
+20236,Organocuprate Reagents
+20230,MolView Instructions
