@@ -85,7 +85,7 @@ rownames(t_mat) <- questionCols
 ui <- fluidPage(
   
   titlePanel(
-    h1("Pearson Correlations---Filtered by significant values after t test")
+    h1("Pearson Correlations---Filtered by alpha value after significance test")
   ),
   
   sidebarLayout(
@@ -122,7 +122,11 @@ ui <- fluidPage(
     
     mainPanel(
       # "This is the main",
-      h5("Smaller nodes indicate topics that come later, 
+      h5("A network graph displaying related topics. An edge between two topics, 
+      represents how a student struggling with one topic is 
+      likely to struggle with the other topic as well. \n
+      
+      Smaller nodes indicate topics that come later, 
          width indicates strength, 
          color indicates direction of correlation"),
       # actionButton(inputId ="tkbutton", 
@@ -222,7 +226,7 @@ server <- function(input, output) {
          vertex.color = rgb(0.8, 0.8, 0.8),
          vertex.label.cex = label_sheet,
          vertex.label.color = rgb(0, 0, 0),
-         edge.width=5*E(new_network)$correlation,
+         edge.width=5*abs(E(new_network)$correlation),
          edge.color=ifelse(E(new_network)$correlation>0, 'blue','red'))
     
     #not ready
