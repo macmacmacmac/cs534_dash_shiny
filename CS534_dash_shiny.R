@@ -8,12 +8,14 @@ library(networkD3)
 library(shinyWidgets)
 
 # file <- file.choose()
-file <- "10_Orgo1_user_pages_and_outcomes_categorized_no_NApages.csv"
-data <- read.csv(file)
-titles <- read_file("pagetitles.txt")
+data_file <- "https://raw.githubusercontent.com/macmacmacmac/cs534_dash_shiny/main/10_Orgo1_user_pages_and_outcomes_categorized_no_NApages.csv"
+data <- read.csv(data_file)
+
+titles_file <- "https://raw.githubusercontent.com/macmacmacmac/cs534_dash_shiny/main/pagetitles.txt"
+titles <- read_file(titles_file)
 
 titles <- gsub("[^A-Za-z0-9\\,\r\n[[:space:]]","",titles)
-titles_array <- unlist(strsplit(titles, "[\r\n]"))[c(T,F)]
+titles_array <- unlist(strsplit(titles, "[\r\n]"))
 
 retrow <- function(line){
   pageNum <- substr(line, 1, 5)
